@@ -1,6 +1,9 @@
 # Xymatic Studios
 
-**An art studio creating multi-medium works, including digital and immersive installations, generative visuals, and interactive solutions for B2B clients**
+**An art studio creating multi-medium works, including digital and immersive installations, generative visuals, and community art exhibitions**
+
+<!--and interactive solutions for B2B clients** 
+end comment-->
 
 ---
 
@@ -14,7 +17,10 @@ Xymatic Studios explores the intersection of visual art, music, and technology. 
 ## 🤝 Collaborations & Inquiries
 
 Xymatic Studios welcomes select collaborations and commissioned projects.  
-For custom interactive artworks, installations, or B2B solutions, please get in touch:
+For custom interactive artworks and installations, please get in touch:
+
+<!-- , or B2B solutions
+end comment-->
 
 <!--🌐 [Website](https://your-studio-website.com)-->  
 📧 [Contact](mailto:carly@futuremindsstudios.com)
@@ -41,4 +47,4 @@ Unless otherwise specified, open-source projects in this organization are provid
 
 ---
 
-**Thank you for visiting Xymatic Studios on GitHub.**
+**Thank you for visiting us on GitHub. We hope to collaborate with you soon!**
